@@ -14,7 +14,7 @@
 - `$ composer install`
 - `$ bin/console doctrine:database:create`
 - `$ bin/console doctrine:migrations:migrate`
-- `$ bin/console doctine:fixtures:load`
+- `$ bin/console doctrine:fixtures:load`
 
 # Démarrer le serveur Symfony
 
